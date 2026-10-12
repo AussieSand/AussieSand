@@ -58,6 +58,6 @@ Impact and Jet Engine Lab are the first candidates for open release. Each will h
 
 I'm open to AI consulting work. Most AI projects stall at trust, not at writing the code. My work is the part that comes after: getting AI-built software to where people can rely on it, because it's running for real or it has been checked against real data. The method stays in-house. What you get is the verified result and the evidence behind it.
 
-<!-- Before publishing, add a contact route that doesn't identify you, such as a separate email address. -->
+**Contact:** swarm+intelligence+2022@norton.me
 
 <sub>Figures are as of October 2026 and are taken from the repositories themselves.</sub>
